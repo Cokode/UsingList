@@ -1,6 +1,4 @@
 # UsingList
-Using List, ArrayList and List Iterator
-
 
 This program lets you add an itenary / list of cities and distance from original point by taking input from the users. 
 
@@ -8,7 +6,7 @@ This program lets you add an itenary / list of cities and distance from original
 
 >> The user can choose to move Forward or Backward between cities. Starting from the origin city. 
 
->> At the end of the List a message is displayed to inform user they are the end of the list.
+>> At the end of the List a message is displayed to inform user they are at the end of the list.
 
 
 This program uses ArrayList class (A resizable array which can be found 
